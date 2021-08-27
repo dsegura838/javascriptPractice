@@ -28,5 +28,5 @@ document.addEventListener('keydown', function(e){
         closeModal();
     }
 });
-
+//adding a comment to feature-readme branch
 console.log('Hello there. I am testing git branches');
