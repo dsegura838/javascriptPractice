@@ -30,3 +30,5 @@ document.addEventListener('keydown', function(e){
 });
 //adding a comment to feature-readme branch
 console.log('Hello there. I am testing git branches');
+
+//adding a comment to quick-test branch
