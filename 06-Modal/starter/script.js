@@ -33,4 +33,4 @@ console.log('Hello there. I am testing git branches');
 
 
 //adding a comment to quick-test branch
-//Hello there
+//Hello there!
